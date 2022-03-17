@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Layout Type</string>
+    <string name="click">click</string>
+    <string name="table_layout_text">click</string>
+    <string name="contact_avatar">Contact Avatar</string>
+    <string name="save">SAVE</string>
+    <string name="name">Name</string>
+    <string name="organization">Organization</string>
+    <string name="call">Call</string>
+</resources>
