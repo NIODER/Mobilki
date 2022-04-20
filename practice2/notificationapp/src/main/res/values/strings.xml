@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NotificationApp</string>
+    <string name="send_notification">Send notification</string>
+    <string name="channel_id">ru.mirea.kozharinov.practice2.notificationapp.ANDROID</string>
+    <string name="channel_description">Channel description</string>
+    <string name="notification_title">Title</string>
+    <string name="notification_text">Notification text for MIREA</string>
+</resources>

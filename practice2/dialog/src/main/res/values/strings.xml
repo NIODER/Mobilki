@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="show_dialog">Show dialog</string>
+    <string name="title">Title</string>
+    <string name="message">Успех близок</string>
+    <string name="positiveButton_text">Да</string>
+    <string name="neutralButton_text">Хз</string>
+    <string name="negativeButton_text">Нет</string>
+    <string name="timepickerdialog">timePickerDialog</string>
+    <string name="datepickerdialog">datePickerDialog</string>
+    <string name="progresspickerdialog">progressPickerDialog</string>
+</resources>
