@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ResultActivity</string>
+    <string name="university_name">Введите название университета</string>
+    <string name="send_button">Отправить</string>
+    <string name="question_text">Где вы обучаетесь?</string>
+    <string name="answer_text">Неизвестно</string>
+    <string name="answer_button">Ввести ответ</string>
+</resources>

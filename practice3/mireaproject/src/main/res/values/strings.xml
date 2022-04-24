@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MireaProject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="taskInputEditText_enter">ENTER</string>
+    <string name="resultTextView_text">RESULT</string>
+    <string name="calculateButton_text">Calculate</string>
+    <string name="oneButtonText">1</string>
+    <string name="secondButtonText">2</string>
+    <string name="threeButtonText">3</string>
+    <string name="addButtonText">+</string>
+    <string name="fourButtonText">4</string>
+    <string name="fiveButtonText">5</string>
+    <string name="sixButtonText">6</string>
+    <string name="subtractionButtonText">-</string>
+    <string name="sevenButtonText">7</string>
+    <string name="eightButtonText">8</string>
+    <string name="nineButtonText">9</string>
+    <string name="multiplyButtonText">*</string>
+    <string name="divineButtonText">/</string>
+    <string name="nav_calculator_text">Calculator</string>
+</resources>
