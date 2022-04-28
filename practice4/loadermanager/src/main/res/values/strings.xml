@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoaderManager</string>
+    <integer name="loaderID">12345</integer>
+</resources>

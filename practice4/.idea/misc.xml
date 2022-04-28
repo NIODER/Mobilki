@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/data_thread/src/main/res/layout/activity_main.xml" value="0.2695035460992908" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/loadermanager/src/main/res/layout/activity_main.xml" value="0.31354166666666666" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/looper/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/layout/activity_main.xml" value="0.31354166666666666" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/layout/app_bar_main.xml" value="0.2871376811594203" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/layout/content_main.xml" value="0.2695035460992908" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/layout/fragment_audioplayer.xml" value="0.5541666666666667" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/layout/fragment_browser.xml" value="0.5541666666666667" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/layout/fragment_calculate.xml" value="0.2695035460992908" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/layout/fragment_home.xml" value="0.5541666666666667" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/layout/nav_header_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/menu/activity_main_drawer.xml" value="0.31354166666666666" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/mireaproject/src/main/res/menu/main.xml" value="0.31354166666666666" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/thread/src/main/res/layout/activity_main.xml" value="0.5541666666666667" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/thread/src/main/res/layout/fragment_empty_information_dialog.xml" value="0.5541666666666667" />
+        <entry key="..\:/MyProgs/Home/java/Android/practice4/thread/src/main/res/layout/fragment_set_information_dialog.xml" value="0.31354166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
