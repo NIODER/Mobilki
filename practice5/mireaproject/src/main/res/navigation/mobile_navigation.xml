@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="ru.mirea.kozharinov.practice3.mireaproject.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_calculator"
+        android:name="ru.mirea.kozharinov.practice3.mireaproject.ui.calculator.CalculateFragment"
+        android:label="@string/nav_calculator_text"
+        tools:layout="@layout/fragment_calculate" />
+
+    <fragment
+        android:id="@+id/nav_browser"
+        android:name="ru.mirea.kozharinov.practice3.mireaproject.ui.browser.BrowserFragment"
+        android:label="Browser"
+        tools:layout="@layout/fragment_browser" />
+
+    <fragment
+        android:id="@+id/nav_audioplayer"
+        android:name="ru.mirea.kozharinov.practice3.mireaproject.ui.audioplayer.AudioPlayerFragment"
+        android:label="Audio Player"
+        tools:layout="@layout/fragment_audioplayer" />
+
+    <fragment
+        android:id="@+id/nav_sensors"
+        android:name="ru.mirea.kozharinov.practice3.mireaproject.ui.sensors.SensorsFragment"
+        android:label="Sensors"
+        tools:layout="@layout/fragment_sensors" />
+
+    <fragment
+        android:id="@+id/nav_camera"
+        android:name="ru.mirea.kozharinov.practice3.mireaproject.ui.photo.PhotoFragment"
+        android:label="Photo"
+        tools:layout="@layout/fragment_photo" />
+
+</navigation>
